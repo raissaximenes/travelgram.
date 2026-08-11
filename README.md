@@ -1,10 +1,22 @@
-# Travelgram ✈️
+<h1 align="center"> Travelgram </h1>
+<div align="center">
+  <img src="assets/images/imagereadme.png">
+</div>
 
-Atividade proposta pela Rocketseat onde foi criado um **Perfil de Viagens** moderno, explorando layouts avançados com **CSS**.
---- 
+## Sobre o projeto
+O projeto apresenta um perfil de viajante com informações pessoais, estatísticas de viagens e uma galeria de destinos, explorando diferentes técnicas de organização e distribuição de elementos na página e foi desenvolvido como parte dos estudos nas aulas de grid da Rocketseat.
 
-# Tecnologias Utilizadas
+## Objetivo
+O objetivo do projeto foi aprofundar os conhecimentos em CSS Grid e Flexbox, entendendo como essas ferramentas podem ser utilizadas em conjunto para construir layouts modernos, organizados e visualmente consistentes.
 
-- **HTML5** – Estrutura semântica da página.
-- **CSS3** – Estilização, cores, fontes e layout com Flexbox.
-- **Figma** – Referência visual
+## Aprendizado 
+Este projeto faz parte da minha jornada de aprendizado e contribuiu principalmente para o desenvolvimento de CSS Grid, Flexbox, variáveis CSS e implementação de layouts a partir de designs no Figma, representando a prática de conceitos fundamentais de construção de interfaces com HTML e CSS.
+  
+## Tecnologias
+- HTML - estrutura e semântica da página
+- CSS3 - estilo e organização visual 
+- Figma - referência visual do projeto 
+
+## Como executar 
+Abra o arquivo `index.html` no navegador.
+
